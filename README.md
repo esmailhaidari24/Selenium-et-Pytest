@@ -12,3 +12,6 @@ Autres exigences :
 Le site Web le site Web doit s'afficher correctement dans différents navigateurs (IE, Firefox, Chrome, Safari et Opera).
 Les messages d’erreur ne doivent pas afficher des informations importantes.
 L'utilisateur une fois déconnecté du système ou si la session utilisateur a expiré, l'utilisateur ne devrait pas pouvoir naviguer sur le site.
+
+
+
