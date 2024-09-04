@@ -4,6 +4,6 @@
 
 Voici le code Python employé pour automatiser les tests sur les différents modules :
 
-- code de l'automatisation des test
+- code de l'automatisation des test en python
 * report de test
-![](file:///Users/haidari/Desktop/report.png)
+![ ](file:///Users/haidari/Desktop/report.png)
