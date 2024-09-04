@@ -6,5 +6,5 @@ Voici le code Python employé pour automatiser les tests sur les différents mod
 
 - code de l'automatisation des test
 * report de test
-![ ](file:///Users/haidari/Desktop/report.png)
+![ ]( file:///Users/haidari/Desktop/report.png )
 
