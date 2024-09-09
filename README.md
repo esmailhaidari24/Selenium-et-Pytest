@@ -6,4 +6,4 @@ Voici le code Python employé pour automatiser les tests sur les différents mod
 
 - code de l'automatisation des test en python
 * report de test et screen
-![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/py-test_form.py)
+![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/pytest_html_report.html)
