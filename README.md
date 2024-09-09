@@ -1,4 +1,4 @@
-J'ai réalisé une série d'exercices sur plusieurs pages web en utilisant Selenium pour l'automatisation des tests. Les tests ont été effectués de manière manuelle ainsi qu'avec Selenium IDE. Voici les détails des exercices :
++J'ai réalisé une série d'exercices sur plusieurs pages web en utilisant Selenium pour l'automatisation des tests. Les tests ont été effectués de manière manuelle ainsi qu'avec Selenium IDE. Voici les détails des exercices :
 
 1. Text Box
 URL: https://demoqa.com/text-box
