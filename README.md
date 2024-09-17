@@ -2,10 +2,10 @@ J'ai pratiqué l'automatisation de tests sur le site demoqa.com en utilisant Sel
 
 En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
-App command pour interagir avec des applications,
-Condition command pour vérifier certaines conditions avant de procéder,
-Wait command pour gérer les temps d'attente et s'assurer que les éléments étaient bien chargés,
-et les commandes de navigation pour manipuler les transitions entre pages.
+**App command** pour interagir avec des applications,
+**Condition command** pour vérifier certaines conditions avant de procéder,
+**Wait command** pour gérer les temps d'attente et s'assurer que les éléments étaient bien chargés,
+et les **commandes de navigation** pour manipuler les transitions entre pages.
 Ces exercices m'ont permis de mieux comprendre le fonctionnement de Selenium et de me familiariser avec l'automatisation des interactions sur une page web.
    
   
