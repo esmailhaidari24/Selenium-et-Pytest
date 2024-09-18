@@ -1,4 +1,6 @@
-J'ai pratiqué l'automatisation de tests sur le site **https://demoqa.com/text-box** en utilisant Selenium. L'objectif était de m'exercer à interagir avec différents éléments comme les **text boxes**, **check boxes** et **radio buttons**.
+J'ai pratiqué l'automatisation de tests sur le site **https://demoqa.com/text-box** en utilisant Selenium. L'objectif était de m'exercer à
+
+interagir avec différents éléments comme les **text boxes**, **check boxes** et **radio buttons**.
 
 En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
