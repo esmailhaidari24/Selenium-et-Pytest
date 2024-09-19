@@ -22,8 +22,7 @@ Ces exercices m'ont permis de mieux comprendre le fonctionnement de Selenium et 
 
 
 
-
-Dans le cadre d'un devoir donné par le formateur, j'ai mis en place l'automatisation de deux fonctionnalités clés du site https://inscription.it-akademy.fr à l'aide de Selenium et Pytest :
+**Dans le cadre d'un devoir donné par le formateur, j'ai mis en place l'automatisation de deux fonctionnalités clés du site https://inscription.it-akademy.fr à l'aide de Selenium et Pytest** :
 
 + Automatisation de la connexion : J'ai écrit un script pour automatiser le processus de connexion sur le site, qui vérifie si l'utilisateur peut s'authentifier correctement.
 
