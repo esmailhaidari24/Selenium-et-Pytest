@@ -35,4 +35,4 @@ Test de connexion : Succès, l'utilisateur a pu se connecter avec les bonnes inf
 Test de création d'utilisateur : Succès, un nouvel utilisateur a été créé avec les informations correctes, et la validation des champs a fonctionné correctement.
 
 
-![]()
+![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-29%20a%CC%80%2017.00.09.png)
