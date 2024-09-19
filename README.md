@@ -34,3 +34,5 @@ Ensuite, j'ai utilisé Pytest pour vérifier les résultats des tests. Après av
 Test de connexion : Succès, l'utilisateur a pu se connecter avec les bonnes informations d'identification.
 Test de création d'utilisateur : Succès, un nouvel utilisateur a été créé avec les informations correctes, et la validation des champs a fonctionné correctement.
 
+
+![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-19%20a%CC%80%2012.18.51.png)
