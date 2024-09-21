@@ -18,6 +18,8 @@ En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
 ![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.32.41.png)
 
+# Je vous laisse le rapport de test réalisé pour diverses fonctions comme la fonctionnalité de connexion et la création d'utilisateurs sur le site It-Akademy.
+
 Ces exercices m'ont permis de mieux comprendre le fonctionnement de Selenium et de me familiariser avec l'automatisation des interactions sur une page web.
 
    
