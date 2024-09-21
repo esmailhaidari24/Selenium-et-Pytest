@@ -10,6 +10,8 @@ En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
 + **Wait command** pour gérer les temps d'attente et s'assurer que les éléments étaient bien chargés.
 
+  ![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.27.59.png)
+
 + **commandes de navigation** pour manipuler les transitions entre pages.
 
 
