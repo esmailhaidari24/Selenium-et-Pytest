@@ -5,9 +5,10 @@ interagir avec différents éléments comme les **text boxes**, **check boxes** 
 En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
 + **App command** pour interagir avec des applications.
+![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.41.17.png)
 
 + **Condition command** pour vérifier certaines conditions avant de procéder.
-+ ![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.39.19.png)
+ ![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.39.19.png)
 
 + **Wait command** pour gérer les temps d'attente et s'assurer que les éléments étaient bien chargés.
 
