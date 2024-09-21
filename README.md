@@ -14,6 +14,7 @@ En plus de ça, j'ai testé plusieurs commandes Selenium, telles que :
 
 + **commandes de navigation** pour manipuler les transitions entre pages.
 
+![](https://github.com/esmailhaidari24/Selenium-et-Pytest/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-31%20a%CC%80%2007.32.41.png)
 
 Ces exercices m'ont permis de mieux comprendre le fonctionnement de Selenium et de me familiariser avec l'automatisation des interactions sur une page web.
 
